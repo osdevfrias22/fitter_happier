@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Fix undefined ‘im_array’ bug in predict.md (#8565)

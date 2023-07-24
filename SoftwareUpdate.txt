@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Allow Annotator PIL.Image inputs (#8397)

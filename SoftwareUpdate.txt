@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)

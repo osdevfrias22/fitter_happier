@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add YOLOv8 LibTorch C++ inference example (#7090)

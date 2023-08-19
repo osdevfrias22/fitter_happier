@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)

@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Move Explorer tests to scheduled CI (#8305)

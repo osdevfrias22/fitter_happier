@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Fix cmake requirements for ARM64 (#8589)

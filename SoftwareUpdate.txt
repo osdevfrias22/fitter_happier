@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+OpenVino 2024.0.0 (#8726)

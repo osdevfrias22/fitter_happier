@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add type hinting to explorer.py (#7388)

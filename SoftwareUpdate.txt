@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
